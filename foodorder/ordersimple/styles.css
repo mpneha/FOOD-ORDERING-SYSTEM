@@ -1,0 +1,19 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+   body {
+    font-size: 120%;
+    background: aquamarine;
+}
+.header{
+    width: 30%;
+    margin: 50px auto 0px;
+    color: white;
+    background: aquamarine;
+    text-align: center;
+    border:1px aquamarine;
+    border-bottom: none;
+    border-radius: 10px 10px 0px 0px;
+    padding: 20px;
+}
