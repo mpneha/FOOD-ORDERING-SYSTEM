@@ -1,1 +1,2 @@
-
+The project title “food ordering system” is done in order to reduce the time compared to traditional system. It is designed with PHP, SQL database, HTML, bootstrap. In order to execute the project, google chrome, vs code and XAMPP software is used.
+In this system user can sign up and login and can view the menu which includes breakfast, lunch, dinner and beverages, from the menu given user can order the desired food and also the quantity required. After ordering user can say the amount to admin. Admin also can login and can view the payment details in sales and maintenance part and can add the category and products required and also delete the products.
